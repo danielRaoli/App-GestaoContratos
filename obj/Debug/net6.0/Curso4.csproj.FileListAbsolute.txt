@@ -1,0 +1,15 @@
+C:\Users\daniel\source\repos\Curso4\Curso4\bin\Debug\net6.0\Curso4.exe
+C:\Users\daniel\source\repos\Curso4\Curso4\bin\Debug\net6.0\Curso4.deps.json
+C:\Users\daniel\source\repos\Curso4\Curso4\bin\Debug\net6.0\Curso4.runtimeconfig.json
+C:\Users\daniel\source\repos\Curso4\Curso4\bin\Debug\net6.0\Curso4.dll
+C:\Users\daniel\source\repos\Curso4\Curso4\bin\Debug\net6.0\Curso4.pdb
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.AssemblyInfo.cs
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.dll
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\refint\Curso4.dll
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.pdb
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\Curso4.genruntimeconfig.cache
+C:\Users\daniel\source\repos\Curso4\Curso4\obj\Debug\net6.0\ref\Curso4.dll
